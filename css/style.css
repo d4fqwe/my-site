@@ -9,3 +9,15 @@ body {
 h1 {
     color: #4da6ff;
 }
+.sticker {
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+    font-size: 50px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.sticker:hover {
+    transform: scale(1.2) rotate(10deg);
+}
