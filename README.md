@@ -1,7 +1,7 @@
 my-site/
 ├── index.html
-├── style.css
-├── script.js
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
 └── images/
-    ├── photo.jpg
-    └── logo.png
